@@ -1,28 +1,28 @@
 import {
+  highlightFifthVideo,
   // blackImg,
   // blueImg,
   highlightFirstVideo,
-  highlightSecondVideo,
-  highlightThirdVideo,
-  highlightFourthVideo,  // Ensure this video is defined
-  highlightFifthVideo,   // Ensure this video is defined
-  highlightSixthVideo,   // Ensure this video is defined
+  highlightFourthVideo,
+  highlightSecondVideo, // Ensure this video is defined
+  highlightSixthVideo,
+  highlightThirdVideo, // Ensure this video is defined
   // whiteImg,
   yellowImg,
 } from "../utils";
 
-export const navLists = [
-  "Store", 
-  "Mac", 
-  "iPad", 
-  "iPhone", 
-  "Watch", 
-  "AirPods", 
-  "TV&Home", 
-  "Entertainment", 
-  "Accessories", 
-  "Support"
-];
+// export const navLists = [
+//   "Store", 
+//   "Mac", 
+//   "iPad", 
+//   "iPhone", 
+//   "Watch", 
+//   "AirPods", 
+//   "TV&Home", 
+//   "Entertainment", 
+//   "Accessories", 
+//   "Support"
+// ];
 
 export const hightlightsSlides = [
   {
